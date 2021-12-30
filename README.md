@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomwechsler&show_icons=true&theme=tokyonight)
 
+🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 <!-- Actual text -->
 
 You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
