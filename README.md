@@ -1,5 +1,7 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/IT.JPG)](https://winsolution.ch/)
 
+### Hi there 👋
+My name is Tom Wechsler and I'm glad you found me on GitHub!
 <!--
 **tomwechsler/tomwechsler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- Actual text -->
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
