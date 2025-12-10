@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomwechsler&show_icons=true&theme=tokyonight)
+![Tom's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tomwechsler&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
 
 🔧 Technologies & Tools
 
