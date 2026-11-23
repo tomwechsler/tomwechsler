@@ -1,39 +1,45 @@
-[![Header](https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/acp.png)](https://acp.videotrainer.ch/)
+# Tom Wechsler
+**Cloud Solution Architect · Cybersecurity Architect · Trainer**
 
-### Hi there 👋
-My name is Tom Wechsler and I'm glad you found me on GitHub!
-<!--
-**tomwechsler/tomwechsler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seit 2000 in der IT und seit 2007 selbständig. Ich unterstütze Organisationen in Deutschland, der Schweiz und Österreich dabei, sichere IT-Umgebungen zu planen und zu betreiben.
 
-Here are some ideas to get you started:
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoft365&logoColor=white)](https://www.microsoft.com/microsoft-365)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+![ISC2 CISSP](https://img.shields.io/badge/ISC2-CISSP-005A9C)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://acp.videotrainer.ch/">
+  <img src="https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/acp.png"
+       alt="Active Cyber Program: Cloud und Cybersecurity verstehen und anwenden"
+       width="100%">
+</a>
 
-![Tom's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tomwechsler&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
+## Active Cyber Program
 
-🔧 Technologies & Tools
+Ich habe das [Active Cyber Program (ACP)](https://github.com/tomwechsler/active-cyber-program) entwickelt und pflege es. ACP hilft Organisationen, einen verständlichen Einstieg in Cybersecurity zu finden – mit klaren Fragen, einem nachvollziehbaren Resultat und konkreten nächsten Schritten.
 
-![](https://img.shields.io/badge/Microsoft-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Microsoft-365-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Microsoft-WindowsServer-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Linux-Bash-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Security-EthicalHacking-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Security-PenetrationTesting-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+Ich führe die offiziellen ACP-Assessments derzeit selbst durch. Für die Unabhängigkeit gilt: Organisationen, die ich in den letzten 24 Monaten zu ihrem Cybersecurity-Programm beraten habe, kann ich nicht assessieren. Mehr dazu in den [Governance-Regeln](https://github.com/tomwechsler/active-cyber-program/blob/main/docs/governance.md#impartiality).
 
+## Schwerpunkte
 
-<!-- Actual text -->
+- Cybersecurity-Architektur und Cybersecurity-Programme
+- Microsoft Azure und hybride Infrastrukturen
+- Netzwerksicherheit und Sicherheit von KI-Systemen
+- Schulungen für IT-Teams, Mitarbeitende und Geschäftsleitungen
 
-You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+## Angebote
 
-<!-- Icons -->
+Online-Workshops · Persönliches Coaching · Beratung und Umsetzung
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/Linkedin.PNG (LinkedIn icon without padding)
+## Ausgewählte Zertifizierungen
 
-<!-- Links to your social media accounts -->
+- ISC2 CISSP und CCSP
+- Microsoft Certified: Cybersecurity Architect Expert
+- Microsoft Certified: Azure Solutions Architect Expert
+- Certified NIST CSF 2.0 Lead Implementer und Lead Auditor
 
-[1]: https://twitter.com/tomvideo2brain
-[2]: https://www.linkedin.com/in/tom-wechsler
+## Kontakt
+
+[LinkedIn](https://www.linkedin.com/in/tom-wechsler) ·
+[Active Cyber Program](https://acp.videotrainer.ch/) ·
+[training@videotrainer.ch](mailto:training@videotrainer.ch)
