@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/IT.JPG)](https://winsolution.ch/)
+[![Header](https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/acp.png)](https://acp.videotrainer.ch/)
 
 ### Hi there 👋
 My name is Tom Wechsler and I'm glad you found me on GitHub!
