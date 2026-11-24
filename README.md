@@ -11,7 +11,7 @@ Seit 2000 bin ich in der IT tätig, seit 2007 selbständig. Ich unterstütze Org
 <a href="https://acp.videotrainer.ch/">
   <img src="https://raw.githubusercontent.com/tomwechsler/tomwechsler/main/acp.png"
        alt="Active Cyber Program: Cloud und Cybersecurity verstehen und anwenden"
-       width="100%">
+       width="70%">
 </a>
 
 ## Mein Projekt: Active Cyber Program
