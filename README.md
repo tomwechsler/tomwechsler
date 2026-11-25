@@ -33,8 +33,12 @@ Je nach Bedarf biete ich Online-Workshops, persönliches Coaching sowie Beratung
 ## Ausgewählte Zertifizierungen
 
 - ISC2 CISSP und CCSP
+- CompTIA SecurityX (früher CASP+)
+- Cloud Security Alliance Certificate of Cloud Security Knowledge (CCSK)
+- EC-Council Certified Ethical Hacker (CEH)
 - Microsoft Certified: Cybersecurity Architect Expert
 - Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft 365 Certified: Administrator Expert
 - Certified NIST CSF 2.0 Lead Implementer und Lead Auditor
 - Certified NIST AI RMF Architect
 - Certified ISO 42001 Lead Implementer und Lead Auditor
